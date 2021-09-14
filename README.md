@@ -1,5 +1,5 @@
 # Multi Threaded Coffee Machine
 
-![alt text](https://drive.google.com/file/d/1wy2oiwUSA4ZaRvZvr7xlabtAffjhv-xl/view?usp=sharing)
+![Design Image](https://i.im.ge/2021/09/15/TwObKG.png)
 
 
